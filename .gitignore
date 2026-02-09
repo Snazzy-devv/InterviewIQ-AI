@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+AsyncIO-Foundation/
+Resources/
+First-Demo.ipynb
+my_traces.json
+openai-sdk.ipynb
+
