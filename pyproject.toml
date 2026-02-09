@@ -9,6 +9,7 @@ dependencies = [
     "load-dotenv>=0.1.0",
     "openai>=2.14.0",
     "openai-agents>=0.6.4",
+    "pydantic>=2.12.5",
     "pypdf>=6.6.2",
     "requests>=2.32.5",
     "win10toast>=0.9",

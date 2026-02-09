@@ -10,7 +10,6 @@ wheels/
 .venv
 .env
 AsyncIO-Foundation/
-Resources/
 First-Demo.ipynb
 my_traces.json
 openai-sdk.ipynb
