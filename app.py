@@ -55,7 +55,7 @@ client =OpenAI(
 # 1. SETUP: Initialize OpenAI and Page Config
 
 # %%
-client = OpenAI(api_key=os.getenv("openai_api_key"))
+client = OpenAI(api_key=os.getenv("openai_api_key")) 
 
 # %%
 st.set_page_config(page_title="InterviewIQ", page_icon="🧠")
